@@ -1,207 +1,206 @@
-# Data Analytics & Business Intelligence Portfolio
+# Hi, I'm Sufiya Tahseen 👋
 
-### Sufiya Tahseen | Data Analyst | BI Analyst | SQL | Python | Power BI | Excel | AI
+### Data Analyst | BI Analyst | SQL | Python | Power BI | Excel | AI
 
-## 👩‍💻 About This Portfolio
+## 👩‍💻 About Me
 
-I'm a **Full-Stack Developer with a background in .NET development**, transitioning into **Data Analytics and Business Intelligence**. My software development experience has strengthened my technical problem-solving, logical thinking and ability to develop end-to-end solutions, which I now apply to analytical challenges and business problems.
+I'm a aspiring **Data Analyst and Business Intelligence professional** with previous experience in **software development and .NET/Full-Stack development**. My development experience has given me a strong foundation in **programming, technical problem-solving, understanding business requirements and building end-to-end solutions**.
 
-My analytical skill set includes **SQL, Python, Microsoft Excel, Power BI and Tableau**, along with the use of **AI tools** to assist with data exploration, analytical workflows, query development, automation and insight generation.
+I've transitioned into **Data Analytics and Business Intelligence**, building on my software development background to work with data, identify patterns, solve business problems and translate analysis into **meaningful business insights**.
 
-I have completed **three independent data analytics projects using Excel, SQL and Power BI**, applying data cleaning, exploratory data analysis, data modeling, business reporting, dashboard development and analytical techniques to derive meaningful business insights.
+My technical expertise includes **SQL, Python, Excel, Power BI, DAX and Tableau**, along with experience using **AI tools, automation and AI-assisted workflows** to support data exploration, analytical problem-solving and development.
 
-I'm currently developing an **end-to-end data analytics project integrating SQL, Python and Power BI with AI-assisted workflows**, covering the analytical process from raw data exploration and preparation to visualization and business insights.
+I have completed hands-on projects covering **data cleaning, data validation, exploratory analysis, SQL querying, data modeling, KPI development, dashboard creation and business reporting** across Excel, SQL and Power BI.
 
-This portfolio showcases my hands-on analytical skills, technical approach, business understanding and ability to translate raw data into meaningful information for data-driven decision-making.
+I enjoy combining **technical knowledge, analytical thinking and business understanding** to turn complex data into **actionable insights and practical solutions**.
 
-## 🎯 Portfolio Objectives
-
-* Analyze datasets to identify patterns, trends and business opportunities.
-* Perform data cleaning, validation and transformation to improve data quality.
-* Use SQL to extract, manipulate and analyze structured data.
-* Apply Python for data analysis, exploration and automation.
-* Use Excel for data preparation, analysis and business reporting.
-* Develop interactive dashboards and reports using Power BI and DAX.
-* Leverage AI tools to support analytical workflows, improve efficiency and assist in problem-solving.
-* Translate analytical findings into actionable business insights.
+---
 
 ## 🛠️ Technical Skills
 
-### Data Analysis & Programming
+**Data Analytics**
+- SQL
+- Python
+- Pandas
+- NumPy
+- Excel
+- Exploratory Data Analysis
+- Data Cleaning & Transformation
 
-* SQL
-* Python
-* Pandas
-* NumPy
-* Exploratory Data Analysis (EDA)
-* Data Cleaning & Transformation
+**Business Intelligence**
+- Power BI
+- DAX
+- Power Query
+- Data Modeling
+- Star Schema
+- Dashboard Development
+- KPI & Business Reporting
 
-### Business Intelligence & Visualization
+**Databases**
+- MySQL
+- SQL Server
+- Joins
+- CTEs
+- Subqueries
+- Window Functions
 
-* Microsoft Power BI
-* DAX
-* Power Query
-* Data Modeling
-* Dashboard Development
-* Tableau
-* KPI Development
-* Business Reporting
+**AI & Automation**
+- AI-Assisted Data Analysis
+- AI-Assisted SQL & Python Development
+- AI-Supported Problem Solving
+- Workflow Automation
 
-### Spreadsheet Analysis
-
-* Microsoft Excel
-* Pivot Tables
-* Lookup Functions
-* Conditional Formatting
-* Data Validation
-* Power Query
-
-### Databases
-
-* MySQL
-* SQL Server
-* Relational Data Modeling
-* Joins, Subqueries and CTEs
-* Window Functions
-
-### AI & Automation
-
-* AI-Assisted Data Analysis
-* AI-Assisted SQL and Python Development
-* Analytical Workflow Automation
-* AI-Supported Problem-Solving
-* AI-Driven Productivity
-
-## 📊 Featured Projects
-
-### 1. Excel Data Analytics Project
-
-**Tools:** Microsoft Excel, Power Query, Pivot Tables, AI
-
-**Status:** Completed
-
-An independent data analytics project focused on exploring business data, performing data preparation and developing reports to identify trends, performance indicators and business insights.
-
-**Key areas:**
-
-* Data cleaning and validation
-* Exploratory data analysis
-* Data summarization and aggregation
-* KPI analysis
-* Business reporting and visualization
-* AI-assisted analytical workflows
-
-**Project Repository:** Coming Soon
+**Previous Development Experience**
+- C#
+- .NET
+- Full-Stack Development
+- Application Development
 
 ---
 
-### 2. SQL Data Analytics Project
+## 📊 Featured Analytics Projects
+
+### 1. Healthcare Operations Analytics — Excel
+
+**Tools:** Excel, Power Query, Power Pivot, DAX, VBA, AI
+
+An Excel-based healthcare operations analytics project focused on **patient flow, appointment performance, waiting time, satisfaction, department performance and revenue**.
+
+**Key areas:**
+- Data auditing and validation
+- Power Query data cleaning
+- Power Pivot data modeling
+- DAX measures and KPIs
+- Interactive PivotTables and dashboards
+- Slicers and dashboard automation
+- VBA refresh and PDF export
+
+**Status:** ✅ Completed
+
+🔗 **Project:** [Healthcare Operations Analytics](https://github.com/stahseen1999/Healthcare-Operations-Analytics-Excel)
+
+---
+
+### 2. E-Commerce Business Intelligence — SQL
 
 **Tools:** MySQL, SQL, AI
 
-**Status:** Completed
-
-An independent SQL analytics project focused on extracting, transforming and analyzing structured data to answer business questions and derive meaningful insights.
+A SQL analytics project using the **Brazilian E-Commerce (Olist) dataset** to explore customer, order, payment, review, seller and product data.
 
 **Key areas:**
+- Data import and auditing
+- Data quality analysis
+- Data cleaning
+- Relational data modeling
+- Joins and aggregations
+- CTEs and subqueries
+- Window functions
+- Business-focused analytical queries
+- AI-assisted SQL development and validation
 
-* Data exploration and validation
-* Joins, subqueries and CTEs
-* Aggregate functions and conditional logic
-* Window functions
-* Business-focused analytical queries
-* AI-assisted query development and validation
+**Status:** ✅ Completed
 
-**Project Repository:** Coming Soon
+🔗 **Project:** [E-Commerce SQL Analytics](https://github.com/stahseen1999/AI-Assisted-Ecommerce-Business-Intelligence-SQL)
 
 ---
 
-### 3. Power BI Dashboard Project
+### 3. Power BI Business Intelligence Project
 
 **Tools:** Power BI, DAX, Power Query, AI
 
-**Status:** Completed
-
-An independent business intelligence project focused on data modeling, analytical calculations and interactive dashboards to communicate key business metrics and performance trends.
+An independent Power BI project focused on transforming business data into an interactive analytical dashboard.
 
 **Key areas:**
+- Power Query transformation
+- Data modeling and relationships
+- DAX measures
+- KPI development
+- Interactive dashboards
+- Business performance analysis
+- AI-assisted development and analysis
 
-* Data transformation using Power Query
-* Data modeling and relationships
-* Star schema
-* DAX measures and calculated columns
-* Interactive dashboards and KPI visualization
-* AI-assisted analysis and development
+**Status:** ✅ Completed
 
-**Project Repository:** Coming Soon
+🔗 **Project:** [Power BI Analytics Project](https://github.com/stahseen1999/AI-Assisted-E-Commerce-Performance-Customer-Intelligence-PowerBI)
 
 ---
 
 ### 4. End-to-End Data Analytics Project
 
-**Tools:** MySQL, Python, Pandas, Power BI, DAX, AI
+**Tools:** SQL, Python, Pandas, Power BI, DAX, AI
 
-**Status:** In Progress
+An end-to-end analytics project integrating multiple technologies across the complete analytics lifecycle.
 
-An end-to-end analytics project integrating multiple technologies to demonstrate the complete data analytics lifecycle, from raw data exploration to business intelligence and insight generation.
+**Workflow:**
 
-**Planned workflow:**
+`Data → Audit → Clean → SQL → Python → Model → Power BI → Insights`
 
-* Data understanding and data auditing
-* Data quality assessment and validation
-* Data cleaning and transformation
-* SQL-based data extraction and analysis
-* Python-based exploratory data analysis
-* Data modeling and preparation
-* Power BI dashboard development
-* KPI analysis and business insights
-* AI-assisted workflows and documentation
+**Key areas:**
+- Data understanding and auditing
+- Data quality assessment
+- SQL-based analysis
+- Python/Pandas analysis
+- Data transformation
+- Data modeling
+- Power BI dashboard development
+- KPI analysis
+- AI-assisted analytical workflows
 
-**Project Repository:** Coming Soon
+**Status:** 🚧 In Progress
 
-## 📈 Analytical Approach
-
-My approach to data analytics follows a structured process:
-
-1. **Business Understanding:** Identify business objectives, requirements and analytical questions.
-2. **Data Auditing:** Understand data structure, grain, relationships, completeness and quality.
-3. **Data Preparation:** Clean, validate, transform and prepare datasets for analysis.
-4. **Data Exploration:** Explore data using SQL, Python and Excel to identify patterns and trends.
-5. **Data Modeling:** Structure data to support reliable and efficient analysis.
-6. **Data Visualization:** Build dashboards and reports using Power BI and other visualization tools.
-7. **Insight Generation:** Interpret findings, evaluate KPIs and communicate business implications.
-8. **AI-Assisted Analysis:** Use AI tools to support development, automate suitable tasks and enhance productivity, while validating analytical outputs.
-
-## 🤖 AI in Data Analytics
-
-AI is incorporated into my analytical workflow as a supporting tool for:
-
-* Assisting with SQL queries, Python code and DAX development
-* Supporting data exploration and analytical problem-solving
-* Improving documentation and reporting workflows
-* Identifying potential data quality issues
-* Exploring automation opportunities
-* Supporting interpretation of analytical results with independent validation
-
-AI-generated outputs are reviewed and validated to maintain analytical accuracy and reliability.
-
-## 🎯 Areas of Interest
-
-* Data Analytics
-* Business Intelligence
-* Business Analysis
-* Data Visualization
-* SQL & Database Analytics
-* AI-Powered Analytics
-* Process Improvement
-* Data-Driven Decision Making
-
-## 📫 Connect With Me
-
-* **GitHub:** [stahseen1999](https://github.com/stahseen1999)
-* **LinkedIn:** Coming Soon
-* **Email:** Your Professional Email
+🔗 **Project:** Coming Soon
 
 ---
 
-*Transforming data into meaningful insights by combining software development, analytical thinking, business intelligence and AI.*
+## 📈 My Analytics Approach
+
+1. **Business Understanding** — Define objectives and analytical questions.
+2. **Data Auditing** — Understand structure, grain, relationships and data quality.
+3. **Data Preparation** — Clean, validate and transform the data.
+4. **Data Analysis** — Use SQL, Python and Excel to explore patterns and trends.
+5. **Data Modeling** — Build a reliable structure for analysis.
+6. **Visualization** — Develop dashboards and meaningful KPIs.
+7. **Insights** — Translate analysis into business findings and recommendations.
+8. **AI-Assisted Workflow** — Use AI to support development, automation and problem-solving while validating outputs.
+
+---
+
+## 🤖 How I Use AI
+
+I use AI as a **supporting tool**, not as a replacement for analytical validation.
+
+AI helps me with:
+
+- SQL query development
+- Python and DAX development
+- Data exploration
+- Identifying potential data-quality issues
+- Documentation
+- Workflow automation
+- Analytical problem-solving
+
+I validate AI-assisted outputs against the underlying data and business requirements.
+
+---
+
+## 🎯 Areas of Interest
+
+- Data Analytics
+- Business Intelligence
+- SQL & Database Analytics
+- Data Visualization
+- Power BI & DAX
+- AI-Powered Analytics
+- Process Improvement
+- Data-Driven Decision Making
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub:** [stahseen1999](https://github.com/stahseen1999)
+- **Email:** sufiya.tahseen.work@gmail.com
+
+---
+
+*Combining software development experience, analytical thinking and AI to build practical, data-driven solutions.*
